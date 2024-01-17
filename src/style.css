@@ -1,0 +1,4 @@
+.time-input-hide {
+  /* for reasons, visibility hidden isnt working and display none is a no go */
+  opacity: 0;
+}
